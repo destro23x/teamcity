@@ -7,3 +7,4 @@ ls -l
 ls -l ./inventory/
 cat ./inventory/inventory_newfile
 pwd
+echo Dodalem sobie linie
